@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  r_name: MyString
+  r_icon: 
+  r_self: MyText
+  r_cost: 
+  r_create: 2024-03-23
+  r_address: MyString
+
+two:
+  r_name: MyString
+  r_icon: 
+  r_self: MyText
+  r_cost: 
+  r_create: 2024-03-23
+  r_address: MyString
