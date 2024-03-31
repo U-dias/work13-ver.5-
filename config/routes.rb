@@ -8,5 +8,4 @@ Rails.application.routes.draw do
   #ユーザーページ
   root to "bookings/:id"
   get "bookings#show"
-
 end
